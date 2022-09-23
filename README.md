@@ -1,2 +1,3 @@
 # Email-Client
-Vorting INCm sindsyge email client
+Vorting INC
+sindsyge email client
